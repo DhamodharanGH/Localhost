@@ -1,0 +1,105 @@
+ 
+ -------------- celery@dhamu-H81M-S v3.1.18 (Cipater)
+---- **** ----- 
+--- * ***  * -- Linux-3.16.0-44-generic-x86_64-with-Ubuntu-14.04-trusty
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         frappe:0x7f25bf517fd0
+- ** ---------- .> transport:   redis://localhost:6379//
+- ** ---------- .> results:     disabled
+- *** --- * --- .> concurrency: 4 (prefork)
+-- ******* ---- 
+--- ***** ----- [queues]
+ -------------- .> celery           exchange=celery(direct) key=celery
+                
+
+ 
+ -------------- celery@dhamu-H81M-S v3.1.18 (Cipater)
+---- **** ----- 
+--- * ***  * -- Linux-3.16.0-44-generic-x86_64-with-Ubuntu-14.04-trusty
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         frappe:0x7f6eeeea3fd0
+- ** ---------- .> transport:   redis://localhost:6379//
+- ** ---------- .> results:     disabled
+- *** --- * --- .> concurrency: 4 (prefork)
+-- ******* ---- 
+--- ***** ----- [queues]
+ -------------- .> celery           exchange=celery(direct) key=celery
+                
+
+ 
+ -------------- celery@dhamu-H81M-S v3.1.18 (Cipater)
+---- **** ----- 
+--- * ***  * -- Linux-3.16.0-44-generic-x86_64-with-Ubuntu-14.04-trusty
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         frappe:0x7f8aa6736fd0
+- ** ---------- .> transport:   redis://localhost:6379//
+- ** ---------- .> results:     disabled
+- *** --- * --- .> concurrency: 4 (prefork)
+-- ******* ---- 
+--- ***** ----- [queues]
+ -------------- .> celery           exchange=celery(direct) key=celery
+                
+
+ 
+ -------------- celery@dhamu-H81M-S v3.1.18 (Cipater)
+---- **** ----- 
+--- * ***  * -- Linux-3.16.0-44-generic-x86_64-with-Ubuntu-14.04-trusty
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         frappe:0x7fa2b1df8ed0
+- ** ---------- .> transport:   redis://localhost:6379//
+- ** ---------- .> results:     disabled
+- *** --- * --- .> concurrency: 4 (prefork)
+-- ******* ---- 
+--- ***** ----- [queues]
+ -------------- .> celery           exchange=celery(direct) key=celery
+                
+
+ 
+ -------------- celery@dhamu-H81M-S v3.1.18 (Cipater)
+---- **** ----- 
+--- * ***  * -- Linux-3.16.0-44-generic-x86_64-with-Ubuntu-14.04-trusty
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         frappe:0x7f128647ded0
+- ** ---------- .> transport:   redis://localhost:6379//
+- ** ---------- .> results:     disabled
+- *** --- * --- .> concurrency: 4 (prefork)
+-- ******* ---- 
+--- ***** ----- [queues]
+ -------------- .> celery           exchange=celery(direct) key=celery
+                
+
+ 
+ -------------- celery@dhamu-H81M-S v3.1.18 (Cipater)
+---- **** ----- 
+--- * ***  * -- Linux-3.16.0-45-generic-x86_64-with-Ubuntu-14.04-trusty
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         frappe:0x7fd8e1685ed0
+- ** ---------- .> transport:   redis://localhost:6379//
+- ** ---------- .> results:     disabled
+- *** --- * --- .> concurrency: 4 (prefork)
+-- ******* ---- 
+--- ***** ----- [queues]
+ -------------- .> celery           exchange=celery(direct) key=celery
+                
+
+ 
+ -------------- celery@dhamu-H81M-S v3.1.18 (Cipater)
+---- **** ----- 
+--- * ***  * -- Linux-3.16.0-45-generic-x86_64-with-Ubuntu-14.04-trusty
+-- * - **** --- 
+- ** ---------- [config]
+- ** ---------- .> app:         frappe:0x7f2a656deed0
+- ** ---------- .> transport:   redis://localhost:6379//
+- ** ---------- .> results:     disabled
+- *** --- * --- .> concurrency: 4 (prefork)
+-- ******* ---- 
+--- ***** ----- [queues]
+ -------------- .> celery           exchange=celery(direct) key=celery
+                
+

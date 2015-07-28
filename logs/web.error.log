@@ -1,0 +1,58 @@
+[2015-07-25 10:48:47 +0000] [15034] [INFO] Starting gunicorn 19.3.0
+[2015-07-25 10:48:47 +0000] [15034] [INFO] Listening at: http://127.0.0.1:8000 (15034)
+[2015-07-25 10:48:47 +0000] [15034] [INFO] Using worker: sync
+[2015-07-25 10:48:47 +0000] [15055] [INFO] Booting worker with pid: 15055
+[2015-07-25 10:48:48 +0000] [15062] [INFO] Booting worker with pid: 15062
+[2015-07-25 10:50:00 +0000] [15034] [INFO] Handling signal: quit
+[2015-07-25 10:50:00 +0000] [15034] [INFO] Shutting down: Master
+[2015-07-25 10:50:02 +0000] [15131] [INFO] Starting gunicorn 19.3.0
+[2015-07-25 10:50:02 +0000] [15131] [INFO] Listening at: http://127.0.0.1:8000 (15131)
+[2015-07-25 10:50:02 +0000] [15131] [INFO] Using worker: sync
+[2015-07-25 10:50:02 +0000] [15139] [INFO] Booting worker with pid: 15139
+[2015-07-25 10:50:02 +0000] [15144] [INFO] Booting worker with pid: 15144
+[2015-07-25 10:53:50 +0000] [15131] [INFO] Handling signal: quit
+[2015-07-25 10:53:50 +0000] [15131] [INFO] Shutting down: Master
+[2015-07-25 10:53:53 +0000] [15263] [INFO] Starting gunicorn 19.3.0
+[2015-07-25 10:53:53 +0000] [15263] [INFO] Listening at: http://127.0.0.1:8000 (15263)
+[2015-07-25 10:53:53 +0000] [15263] [INFO] Using worker: sync
+[2015-07-25 10:53:53 +0000] [15271] [INFO] Booting worker with pid: 15271
+[2015-07-25 10:53:53 +0000] [15272] [INFO] Booting worker with pid: 15272
+[2015-07-25 19:01:40 +0000] [15263] [INFO] Handling signal: quit
+[2015-07-25 19:01:42 +0000] [15263] [INFO] Shutting down: Master
+[2015-07-27 09:51:47 +0000] [2293] [INFO] Starting gunicorn 19.3.0
+[2015-07-27 09:51:47 +0000] [2293] [INFO] Listening at: http://127.0.0.1:8000 (2293)
+[2015-07-27 09:51:47 +0000] [2293] [INFO] Using worker: sync
+[2015-07-27 09:51:47 +0000] [2463] [INFO] Booting worker with pid: 2463
+[2015-07-27 09:51:47 +0000] [2466] [INFO] Booting worker with pid: 2466
+[2015-07-27 19:13:07 +0000] [2293] [INFO] Handling signal: quit
+[2015-07-28 09:24:07 +0000] [1881] [INFO] Starting gunicorn 19.3.0
+[2015-07-28 09:24:07 +0000] [1881] [INFO] Listening at: http://127.0.0.1:8000 (1881)
+[2015-07-28 09:24:07 +0000] [1881] [INFO] Using worker: sync
+[2015-07-28 09:24:07 +0000] [2112] [INFO] Booting worker with pid: 2112
+[2015-07-28 09:24:07 +0000] [2115] [INFO] Booting worker with pid: 2115
+[2015-07-28 10:24:36 +0000] [1881] [INFO] Handling signal: quit
+[2015-07-28 10:24:38 +0000] [1881] [INFO] Shutting down: Master
+[2015-07-28 10:25:15 +0000] [2276] [INFO] Starting gunicorn 19.3.0
+[2015-07-28 10:25:15 +0000] [2276] [INFO] Listening at: http://127.0.0.1:8000 (2276)
+[2015-07-28 10:25:15 +0000] [2276] [INFO] Using worker: sync
+[2015-07-28 10:25:15 +0000] [2332] [INFO] Booting worker with pid: 2332
+[2015-07-28 10:25:15 +0000] [2337] [INFO] Booting worker with pid: 2337
+[2015-07-28 10:30:39 +0000] [2276] [INFO] Handling signal: quit
+[2015-07-28 10:30:39 +0000] [2276] [INFO] Shutting down: Master
+[2015-07-28 10:31:23 +0000] [2320] [INFO] Starting gunicorn 19.3.0
+[2015-07-28 10:31:23 +0000] [2320] [INFO] Listening at: http://127.0.0.1:8000 (2320)
+[2015-07-28 10:31:23 +0000] [2320] [INFO] Using worker: sync
+[2015-07-28 10:31:23 +0000] [2343] [INFO] Booting worker with pid: 2343
+[2015-07-28 10:31:23 +0000] [2375] [INFO] Booting worker with pid: 2375
+[2015-07-28 17:31:21 +0000] [2523] [INFO] Starting gunicorn 19.3.0
+[2015-07-28 17:31:21 +0000] [2523] [INFO] Listening at: http://127.0.0.1:8000 (2523)
+[2015-07-28 17:31:21 +0000] [2523] [INFO] Using worker: sync
+[2015-07-28 17:31:21 +0000] [2536] [INFO] Booting worker with pid: 2536
+[2015-07-28 17:31:21 +0000] [2543] [INFO] Booting worker with pid: 2543
+[2015-07-28 17:31:50 +0000] [2523] [INFO] Handling signal: quit
+[2015-07-28 17:31:50 +0000] [2523] [INFO] Shutting down: Master
+[2015-07-28 17:32:51 +0000] [2168] [INFO] Starting gunicorn 19.3.0
+[2015-07-28 17:32:51 +0000] [2168] [INFO] Listening at: http://127.0.0.1:8000 (2168)
+[2015-07-28 17:32:51 +0000] [2168] [INFO] Using worker: sync
+[2015-07-28 17:32:51 +0000] [2500] [INFO] Booting worker with pid: 2500
+[2015-07-28 17:32:51 +0000] [2503] [INFO] Booting worker with pid: 2503
