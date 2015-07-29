@@ -151,3 +151,61 @@ Trying again in 2.00 seconds...
 
 worker: Cold shutdown (MainProcess)
 [2015-07-28 17:32:53,740: WARNING/MainProcess] celery@dhamu-H81M-S ready.
+[2015-07-28 19:24:14,757: WARNING/MainProcess] consumer: Connection to broker lost. Trying to re-establish the connection...
+Traceback (most recent call last):
+  File "/home/dhamu/frappe-bench/env/local/lib/python2.7/site-packages/celery/worker/consumer.py", line 278, in start
+    blueprint.start(self)
+  File "/home/dhamu/frappe-bench/env/local/lib/python2.7/site-packages/celery/bootsteps.py", line 123, in start
+    step.start(parent)
+  File "/home/dhamu/frappe-bench/env/local/lib/python2.7/site-packages/celery/worker/consumer.py", line 821, in start
+    c.loop(*c.loop_args())
+  File "/home/dhamu/frappe-bench/env/local/lib/python2.7/site-packages/celery/worker/loops.py", line 70, in asynloop
+    next(loop)
+  File "/home/dhamu/frappe-bench/env/local/lib/python2.7/site-packages/kombu/async/hub.py", line 267, in create_loop
+    tick_callback()
+  File "/home/dhamu/frappe-bench/env/local/lib/python2.7/site-packages/kombu/transport/redis.py", line 943, in on_poll_start
+    cycle_poll_start()
+  File "/home/dhamu/frappe-bench/env/local/lib/python2.7/site-packages/kombu/transport/redis.py", line 300, in on_poll_start
+    self._register_BRPOP(channel)
+  File "/home/dhamu/frappe-bench/env/local/lib/python2.7/site-packages/kombu/transport/redis.py", line 283, in _register_BRPOP
+    self._register(*ident)
+  File "/home/dhamu/frappe-bench/env/local/lib/python2.7/site-packages/kombu/transport/redis.py", line 268, in _register
+    client.connection.connect()
+  File "/home/dhamu/frappe-bench/env/local/lib/python2.7/site-packages/redis/connection.py", line 436, in connect
+    raise ConnectionError(self._error_message(e))
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+[2015-07-28 19:24:14,790: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting to localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+
+worker: Cold shutdown (MainProcess)
+[2015-07-29 09:29:28,864: WARNING/MainProcess] celery@dhamu-H81M-S ready.
+[2015-07-29 11:12:31,131: WARNING/MainProcess] consumer: Connection to broker lost. Trying to re-establish the connection...
+Traceback (most recent call last):
+  File "/home/dhamu/frappe-bench/env/local/lib/python2.7/site-packages/celery/worker/consumer.py", line 278, in start
+    blueprint.start(self)
+  File "/home/dhamu/frappe-bench/env/local/lib/python2.7/site-packages/celery/bootsteps.py", line 123, in start
+    step.start(parent)
+  File "/home/dhamu/frappe-bench/env/local/lib/python2.7/site-packages/celery/worker/consumer.py", line 821, in start
+    c.loop(*c.loop_args())
+  File "/home/dhamu/frappe-bench/env/local/lib/python2.7/site-packages/celery/worker/loops.py", line 70, in asynloop
+    next(loop)
+  File "/home/dhamu/frappe-bench/env/local/lib/python2.7/site-packages/kombu/async/hub.py", line 267, in create_loop
+    tick_callback()
+  File "/home/dhamu/frappe-bench/env/local/lib/python2.7/site-packages/kombu/transport/redis.py", line 943, in on_poll_start
+    cycle_poll_start()
+  File "/home/dhamu/frappe-bench/env/local/lib/python2.7/site-packages/kombu/transport/redis.py", line 300, in on_poll_start
+    self._register_BRPOP(channel)
+  File "/home/dhamu/frappe-bench/env/local/lib/python2.7/site-packages/kombu/transport/redis.py", line 283, in _register_BRPOP
+    self._register(*ident)
+  File "/home/dhamu/frappe-bench/env/local/lib/python2.7/site-packages/kombu/transport/redis.py", line 268, in _register
+    client.connection.connect()
+  File "/home/dhamu/frappe-bench/env/local/lib/python2.7/site-packages/redis/connection.py", line 436, in connect
+    raise ConnectionError(self._error_message(e))
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+[2015-07-29 11:12:31,277: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting to localhost:6379. Connection refused..
+Trying again in 2.00 seconds...
+
+
+worker: Cold shutdown (MainProcess)
+[2015-07-29 11:50:59,266: WARNING/MainProcess] celery@dhamu-H81M-S ready.

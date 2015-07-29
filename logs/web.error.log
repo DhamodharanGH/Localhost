@@ -56,3 +56,17 @@
 [2015-07-28 17:32:51 +0000] [2168] [INFO] Using worker: sync
 [2015-07-28 17:32:51 +0000] [2500] [INFO] Booting worker with pid: 2500
 [2015-07-28 17:32:51 +0000] [2503] [INFO] Booting worker with pid: 2503
+[2015-07-28 19:24:15 +0000] [2168] [INFO] Handling signal: quit
+[2015-07-28 19:24:16 +0000] [2168] [INFO] Shutting down: Master
+[2015-07-29 09:29:27 +0000] [2286] [INFO] Starting gunicorn 19.3.0
+[2015-07-29 09:29:27 +0000] [2286] [INFO] Listening at: http://127.0.0.1:8000 (2286)
+[2015-07-29 09:29:27 +0000] [2286] [INFO] Using worker: sync
+[2015-07-29 09:29:27 +0000] [2301] [INFO] Booting worker with pid: 2301
+[2015-07-29 09:29:27 +0000] [2304] [INFO] Booting worker with pid: 2304
+[2015-07-29 11:12:32 +0000] [2286] [INFO] Handling signal: quit
+[2015-07-29 11:12:33 +0000] [2286] [INFO] Shutting down: Master
+[2015-07-29 11:50:58 +0000] [2253] [INFO] Starting gunicorn 19.3.0
+[2015-07-29 11:50:58 +0000] [2253] [INFO] Listening at: http://127.0.0.1:8000 (2253)
+[2015-07-29 11:50:58 +0000] [2253] [INFO] Using worker: sync
+[2015-07-29 11:50:58 +0000] [2294] [INFO] Booting worker with pid: 2294
+[2015-07-29 11:50:58 +0000] [2297] [INFO] Booting worker with pid: 2297
